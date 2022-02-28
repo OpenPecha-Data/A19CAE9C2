@@ -1,0 +1,34 @@
+segment_sources:
+  P84E49EAE:
+    type: origin_type
+    relation: translation
+    language: en
+  P3BE7CFB2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  774973fbad6a4a6aa0b604d3d2ab0630:
+    P84E49EAE: d808ab0dbec5496eb5174c9b0577dee1
+    P3BE7CFB2: 27e3672236c44ae2a46a0389d3b478e7
+  d5288b04266941a0a66e837854fcbce7:
+    P84E49EAE: 6f0900818b76489689b45e6a3d00c1de
+    P3BE7CFB2: bb31865da9fc41b48c150c785baaf85a
+  cc749592c3a74f3cbd17fcfeb9cd0264:
+    P84E49EAE: f0872982a3b64e3f8491445fe007ee3e
+    P3BE7CFB2: caf39e33802143eaa4ed5d4ac87c0bda
+  670aabbeabee4a73933b5bfa841d4e09:
+    P84E49EAE: 961dc958f11e4efeb4268e3e17571b3b
+    P3BE7CFB2: 8a41df8d5aec4557a60aaf51bbecaa4b
+  737c4c9093734f27abf49c14829177d1:
+    P84E49EAE: 21317ca22bc0417990691c0ac9762b66
+    P3BE7CFB2: c11842edc3984d43a183172302ec0565
+  ca96635a6a0e4a928d337db44e9c13d7:
+    P84E49EAE: ba8dfd11933a4af89648c7b24969de0f
+    P3BE7CFB2: 02e47bd25d57476ba0a78febdb8a229e
+  62cb467ca865405d8fde3785c2d5f248:
+    P84E49EAE: efd83ad89d314b42adc1a31f9be26ebf
+    P3BE7CFB2: ff58d23ec4e64a33a8806a5c1725b886
+  2ad35511e3ff423d8b310ca1d5bd7569:
+    P84E49EAE: 9a626b3550524a3986d0e2bfdb3d785b
+    P3BE7CFB2: 1e9edf91e67c4f7d8beee21f27f915f6
